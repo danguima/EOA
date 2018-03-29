@@ -2,14 +2,17 @@
 
 ## Como Utilizar:
 
-1- Baixe o BuscaBinaria e o cep_ordenando_reduzido.dat
+1- Baixe o BuscaBinaria e o cep_ordenando_reduzido.dat para o mesmo diretorio
 
 2- Entre no diretorio onde se encontram ambos os arquivos
+  
+  Exemplo de utilização: cd /diretorio
 
 3- Execute a busca usando o comando ./BuscaBinaria "cep desejado"
 
-  Ex: de utilização ./BuscaBinaria 20550170
+  Exemplo de utilização: ./BuscaBinaria 20550170
 
+  OBS: Neste arquivo de CEPs, encontram-se apenas os CEPs do Rio de Janeiro
 
 ## Casos de Erro:
 
