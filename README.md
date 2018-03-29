@@ -2,7 +2,7 @@
 
 ## Como Utilizar:
 
-1- Baixe o BuscaBinaria e o cep_ordenando_reduzido
+1- Baixe o BuscaBinaria e o cep_ordenando_reduzido.dat
 2- Entre no diretorio onde se encontram ambos os arquivos
 3- Execute a busca usando o comando ./BuscaBinaria "cep desejado"
   Ex: de utilização ./BuscaBinaria 20550170
