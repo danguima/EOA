@@ -16,7 +16,7 @@
 
 ## Casos de Erro:
 
-1- O algoritmo não executará caso o numero de parâmetros passados seja diferente 2, sendo o primeiro o proprio algoritmo e o segundo o CEP que será buscado
+1- O algoritmo não executará caso o numero de parâmetros passados seja diferente de 2, sendo o primeiro o proprio algoritmo e o segundo o CEP que será buscado
 
 2- O algoritmo não executará caso o CEP passado tenha um numero de algarismos diferente de 8
 
